@@ -1,6 +1,6 @@
 ﻿# Youtube-Playlist-Downloader-using-python
 ## YouTube Playlist Downloader
-Description
+## Description
 This is a simple YouTube playlist downloader application built using PyQt5 and pytube. The application allows users to enter a YouTube playlist URL, load the playlist, and download selected videos from the playlist to a specified location. It utilizes multi-threading to handle playlist loading and video downloads in the background, ensuring a responsive user interface.
 
 ## Requirements
